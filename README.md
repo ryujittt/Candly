@@ -28,7 +28,10 @@ Required packages include:
 
 PyQt5,matplotlib,pandas,numpy,ccxt,scipy,sklearn,fastdtw,mplfinance
 
- #Usage
+# Historical data
+historical data must be located on desktop in ohlcv_data folder, 
+
+ # Usage
 
 Select a symbol (e.g., BTC/USDT) and timeframe (5m, 1h, 1d, etc.).
 
